@@ -54,7 +54,7 @@ class Race:
         return False
 
 
-# ---- main ----
+
 cars = []
 
 i = 1
