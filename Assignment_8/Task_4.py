@@ -34,7 +34,7 @@ class Race:
             i = i + 1
 
     def print_status(self):
-        print("Status:")
+        print("Status: ")
         print("Reg  Speed  Distance")
 
         i = 0
